@@ -1,0 +1,10 @@
+Thanks for buying this plugin :)
+
+(FOR CUSTOM DOWNLOAD)
+Download and unzip the folder and then paste the folder inside the plugins folder(if there is no plugins folder then make one) inside your root directory of project.
+Open the project and turn on the plugin inside editor
+ENJOY:)
+
+
+(FOR MARKETPLACE/FAB)
+
